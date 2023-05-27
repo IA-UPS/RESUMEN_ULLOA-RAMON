@@ -68,3 +68,23 @@ Las redes bayesianas ofrecen una serie de beneficios, que incluyen:
 -   La representación de la incertidumbre: Las redes bayesianas pueden representar la incertidumbre en el modelo. Esto puede ser útil para tareas como la evaluación de riesgos y la toma de decisiones.
 
 En general, las redes bayesianas son una herramienta poderosa para modelar las dependencias entre variables aleatorias. Tienen una amplia gama de aplicaciones en una variedad de campos.
+
+## Fuentes consultadas
+
+-   Libretexts. (2022). 13.5: Teoría de Redes
+    	Bayesianas. LibreTexts español.
+    	[[https://espanol.libretexts.org/Ingenieria/Ingenier%C3%ADa_Industrial_y\_de_Sistemas/Libro%3A_Din%C3%A1mica_y\_Controles_de_Procesos_Qu%C3%ADmicos\_(Woolf)/13%3A_Estad%C3%ADsticas_y\_antecedentes_probabil%C3%ADsticos/13.05%3A_Teor%C3%ADa_de_Redes_Bayesianas]{.underline}](https://espanol.libretexts.org/Ingenieria/Ingenier%C3%ADa_Industrial_y_de_Sistemas/Libro%3A_Din%C3%A1mica_y_Controles_de_Procesos_Qu%C3%ADmicos_(Woolf)/13%3A_Estad%C3%ADsticas_y_antecedentes_probabil%C3%ADsticos/13.05%3A_Teor%C3%ADa_de_Redes_Bayesianas)
+
+-   <div>
+
+    -   Fabián, C. O. E. (s. f.). APRENDIZAJE
+        	ESTRUCTURAL DE REDES BAYESIANAS: UN ENFOQUE BASADO EN PUNTAJE Y
+        	BÚSQUEDA.
+        	[[http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0124-81702011000100003]{.underline}](http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0124-81702011000100003)
+
+    </div>
+
+\
+
+\
+
