@@ -1,0 +1,70 @@
+---
+title: "REDESBAYESIANAS"
+author: "Valeria Ulloa, Nayeli Ramón"
+format: pdf
+editor: visual
+---
+
+## Redes bayesianas
+
+Las redes bayesianas son un tipo de modelo gráfico probabilístico que se utiliza para representar las conexiones de dependencia entre distintas variables aleatorias. Estas redes son ampliamente empleadas en los campos de inteligencia artificial y aprendizaje automático. En este texto, vamos a discutir sobre la estructura de las redes bayesianas, sus aplicaciones y las ventajas que ofrecen.
+
+La estructura de una red bayesiana se compone de un grafo dirigido acíclico, en el cual los nodos representan las variables aleatorias y las aristas denotan las relaciones de dependencia existentes entre ellas. Cada nodo en la red está asociado a una distribución de probabilidad condicional (CPD, por sus siglas en inglés), que describe la probabilidad de cada valor que el nodo puede tomar, dadas las valores de sus nodos padres en la red.
+
+Estas redes cuentan con numerosas aplicaciones en diversos campos, como el diagnóstico médico, el análisis de datos climáticos, la planificación de recursos y la robótica, entre otros. Estas redes son utilizadas cuando la probabilidad de que ocurra un evento depende de la probabilidad de que ocurra un evento anterior, lo cual resulta fundamental en muchas industrias donde las variables presentan relaciones condicionales y no son independientes entre sí. Las redes bayesianas se emplean para modelar procesos en una amplia gama de aplicaciones.
+
+Por ejemplo, en el ámbito del diagnóstico médico, una red bayesiana puede ayudar a los médicos a determinar la probabilidad de que un paciente padezca una enfermedad específica en función de los síntomas que presenta y los resultados de las pruebas realizadas. También se utilizan redes bayesianas en la modelización de redes reguladoras génicas, estructuras proteicas, clasificación de documentos, fusión de datos, sistemas de apoyo a la toma de decisiones, recolección de datos para la exploración espacial profunda y predicción del tiempo, entre otros ejemplos.
+
+Las redes bayesianas son un tipo de modelo probabilístico que tiene varias ventajas sobre otros modelos, como los árboles de decisión. En primer lugar, estas pueden manejar de manera eficiente grandes conjuntos de datos y variables complejas. En segundo lugar, pueden incorporar fácilmente información previa o conocimiento experto en el modelo, lo que es especialmente útil cuando se dispone de datos limitados. En tercer lugar, las redes bayesianas pueden representar y cuantificar la incertidumbre inherente a las relaciones de dependencia entre variables. Esto proporciona una perspectiva más completa y realista del problema en cuestión.
+
+Aquí hay algunos detalles adicionales sobre las ventajas de las redes bayesianas:
+
+1.  Eficiencia: las redes bayesianas pueden manejar de manera eficiente grandes conjuntos de datos y variables complejas porque representan las relaciones entre variables en forma gráfica. Esto permite que la red se actualice rápida y fácilmente con nuevos datos.
+2.  Flexibilidad: las redes bayesianas pueden incorporar fácilmente información previa o conocimiento experto en el modelo. Esto se hace especificando las probabilidades previas de las variables en la red. Esto puede ser útil cuando hay datos limitados disponibles o cuando los datos son ruidosos.
+3.  Precisión: Las redes bayesianas pueden representar y cuantificar la incertidumbre inherente a las relaciones de dependencia entre variables. Esto permite que la red haga predicciones más precisas que otros modelos que no tienen en cuenta la incertidumbre.
+
+En general, las redes bayesianas son una herramienta poderosa para modelar problemas complejos con incertidumbre. Son eficientes, flexibles y precisos, y se pueden utilizar para incorporar información previa o conocimiento experto en el modelo.
+
+## Redes Bayesianas Dinámicas
+
+Una red bayesiana dinámica (DBN) es un tipo de red bayesiana que se puede utilizar para modelar cómo cambian las variables con el tiempo. Las DBN se componen de una serie de redes bayesianas conectadas, cada una de las cuales representa un paso de tiempo diferente. Esto permite que las DBN capturen las relaciones dinámicas entre las variables a medida que evolucionan con el tiempo.
+
+Las DBN se pueden usar para resolver una variedad de problemas, que incluyen:
+
+-   Predecir los valores futuros de las variables: las DBN se pueden usar para predecir los valores futuros de las variables en función de sus valores pasados. Esto puede ser útil para tareas como pronosticar precios de acciones o predecir el clima.
+
+-   Identificación de relaciones causales: las DBN se pueden utilizar para identificar relaciones causales entre variables. Esto puede ser útil para tareas como comprender los efectos de diferentes tratamientos en la salud de un paciente.
+
+-   Análisis de cambios en las variables a lo largo del tiempo: las DBN se pueden utilizar para analizar cambios en las variables a lo largo del tiempo. Esto puede ser útil para tareas como comprender la evolución de una enfermedad o el impacto de una nueva política.
+
+Las DBN son una poderosa herramienta para modelar sistemas dinámicos. Son capaces de capturar las relaciones complejas entre variables a medida que cambian con el tiempo, y pueden usarse para resolver una variedad de problemas.
+
+Aquí hay algunos detalles adicionales sobre las DBN:
+
+-   Estructura: una DBN se compone de una serie de redes bayesianas conectadas, cada una de las cuales representa un paso de tiempo diferente. Las conexiones entre las redes representan las relaciones entre las variables.
+
+-   Aprendizaje: las DBN se pueden aprender de los datos utilizando una variedad de métodos. Un método común es utilizar el algoritmo de maximización de expectativas.
+
+-   Inferencia: una vez que se ha aprendido un DBN, se puede utilizar para hacer inferencias sobre las variables. Esto se puede hacer usando la regla de Bayes.
+
+Las DBN son una tecnología relativamente nueva, pero ya se han utilizado para resolver una variedad de problemas. Son una herramienta poderosa para modelar sistemas dinámicos y es probable que se vuelvan aún más populares en el futuro.
+
+Las redes bayesianas son un tipo de modelo probabilístico que se puede utilizar para representar las dependencias entre variables aleatorias. Se componen de un gráfico acíclico dirigido (DAG), donde los nodos representan las variables y los bordes representan las dependencias entre ellos. Las redes bayesianas se pueden utilizar en una variedad de campos, que incluyen:
+
+-   Procesamiento del lenguaje natural: las redes bayesianas se pueden utilizar para modelar las relaciones entre palabras y frases. Esto puede ser útil para tareas como la clasificación de textos y la traducción automática.
+
+-   Visión artificial: las redes bayesianas se pueden utilizar para modelar las relaciones entre los píxeles de una imagen. Esto puede ser útil para tareas como la detección de objetos y la segmentación de imágenes.
+
+-   Diagnóstico médico: las redes bayesianas se pueden utilizar para modelar las relaciones entre síntomas y enfermedades. Esto puede ser útil para tareas como el diagnóstico médico y el pronóstico.
+
+-   Finanzas: las redes bayesianas se pueden utilizar para modelar las relaciones entre variables financieras. Esto puede ser útil para tareas como la evaluación de riesgos y la gestión de carteras.
+
+Las redes bayesianas ofrecen una serie de beneficios, que incluyen:
+
+-   La capacidad de manejar grandes conjuntos de datos: las redes bayesianas se pueden utilizar para modelar grandes conjuntos de datos con muchas variables.
+
+-   La incorporación de información previa: Las redes bayesianas pueden incorporar información previa sobre las variables al modelo. Esto puede ser útil cuando hay datos limitados disponibles.
+
+-   La representación de la incertidumbre: Las redes bayesianas pueden representar la incertidumbre en el modelo. Esto puede ser útil para tareas como la evaluación de riesgos y la toma de decisiones.
+
+En general, las redes bayesianas son una herramienta poderosa para modelar las dependencias entre variables aleatorias. Tienen una amplia gama de aplicaciones en una variedad de campos.
